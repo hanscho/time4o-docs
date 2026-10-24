@@ -14,7 +14,7 @@ Har man indivuelle gaflinger så vil dessuten løypa alltid følge startnummeret
 Hvis klassen har starttype fellesstart så vil ***starten*** kun bestå et startnummer uten starttid. Når starttid mangler hentes starttid fra klassens ***første start***.. 
 
 ::: warning OBS!
-I klasser med fristart er det **ikke nødvendig å opprette starter** såfremt ikke deltageren skal bære et startnummer!
+I klasser med fristart eller fellesstart er det **ikke nødvendig å opprette starter** såfremt ikke deltageren skal bære et startnummer!
 Legg inn antall trykte kart på løypene for å ha kontroll på hvor mange påmeldinger klassene med fristart kan ha.
 :::
 
