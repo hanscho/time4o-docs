@@ -40,4 +40,4 @@ Regelen angis i feltet "Poeng" på løypa og angis i formatet "MAKSTID,INTERVALL
 
 En deltager med tiden 62:34 får -30 poeng.
 
-Løypa må minimum inneholde startpost og målpost.
+Løypa må minimum inneholde startpost og målpost. Hvis klassens **Kilde starttid** er **Startliste** vil tiden beregnes fra klassens først start eller påmeldingens starttid. Hvis **Kilde starttid** er **Tidtaking (Brikketid)** vil tiden beregnes fra stempling/nulling på startpost.
